@@ -1,0 +1,24 @@
+/* 
+    Document   : new_password
+    Created on : 2 Feb, 2023, 10:18:39 AM
+    Author     : Sam
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.timer {
+  font-size: 48px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+  font-size: 18px;
+  padding: 10px 20px;
+}

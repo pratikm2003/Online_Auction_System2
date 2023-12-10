@@ -1,0 +1,86 @@
+/* 
+    Document   : submit_bid
+    Created on : 3 Mar, 2023, 11:30:45 PM
+    Author     : ADMIN
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body
+{
+    background-image: url('image/submit bid1.jpg');
+    background-size: cover;
+}
+
+.font
+{
+    height: 45px;
+    width: 300px;
+    margin-left: 30px;
+    font-size: 13px;
+    margin-top: 10px;
+    border-radius: 13px;
+    padding-top: 5px;
+}
+.textbox
+{
+    height: 45px;
+    width: 300px;
+    margin-left: 30px;
+    font-size: 13px;
+    margin-top: 10px;
+    border-radius: 13px;
+    padding-top: 5px;
+    
+}
+
+.whitediv
+{
+    height: 300px;
+    width: 400px;
+    background-color: transparent;
+    margin-top: 150px;
+    margin-left: 600px;
+    border-radius: 15px;
+    
+}
+
+.button
+{
+    height: 30px;
+    width: 105px;
+    margin-top: 15px;
+    margin-left: 32px;
+    background-color: silver;
+    border-radius: 10px;
+}
+
+
+.link
+{
+    margin-top: 15px;
+    margin-left: 500px;
+    width: 125px;
+}
+
+.button:hover
+{
+    height: 30px;
+    width: 105px;
+    margin-top: 15px;
+    margin-left: 32px;
+    background-color:navajowhite;
+    border-radius: 10px;
+}
+
+.link:hover
+{
+    margin-top: 15px;
+    margin-left: 500px;
+    width: 125px;
+    background-color: navajowhite;
+}

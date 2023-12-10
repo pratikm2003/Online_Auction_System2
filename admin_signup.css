@@ -1,0 +1,94 @@
+/* 
+    Document   : admin_signup
+    Created on : 1 Mar, 2023, 11:45:09 PM
+    Author     : ADMIN
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body
+{
+    background-image:url('image/sign_in_back.jpg');
+    background-size: cover;
+}
+.font
+{
+    
+    font-size: 38px;
+    color: black;
+    margin-left: 600px;
+}
+
+.font1
+{
+    font-size: 13px;
+    
+}
+
+.myclass
+{
+    margin-left: 300px;
+    height: 40px;
+    width: 250px;
+    font-size: 25px;
+    color: black;
+}
+
+.textbox
+{
+    height: 40px;
+    width: 280px;
+    margin-top: 10px;
+    margin-left: 100px;
+    font-size: 14px;
+    border-radius: 10px;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+}
+
+.button
+{
+    height: 30px;
+    width: 105px;
+    margin-top: 50px;
+    margin-left: 670px;
+    border-radius: 10px;
+}
+
+.button:hover
+{
+    height: 35px;
+    width: 110px;
+    margin-top: 48px;
+    margin-left: 668px;
+    border-radius: 10px;
+    background-color: violet;
+}
+
+.link
+{
+    margin-top: 15px;
+    margin-left: 300px;
+    width: 125px;
+}
+
+
+
+.lab
+{
+    margin-left: 430px;
+    font-size:  23px;
+    color: white;
+}
+
+.button2
+{
+    margin-left: 60px;
+    font-size:  35px;
+    color: white;
+}

@@ -1,0 +1,95 @@
+/* 
+    Document   : user_add_item
+    Created on : 11 Mar, 2023, 11:16:22 AM
+    Author     : ADMIN
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body
+{
+    background-image:url('image/back14.jpg');
+    background-size: cover;
+}
+.font
+{
+    margin-left: 250px;
+    font-size: 50px;
+    color: black;
+}
+
+.textbox
+{
+    margin-left: 10px;
+    height: 40px;
+    width: 240px;
+    border-radius: 10px;
+    margin-top: 35px;
+}
+.textbox1
+{
+    margin-left: 10px;
+    height: 75px;
+    width: 240px;
+    border-radius: 10px;
+    margin-top: 35px;
+}
+.button
+{
+    margin-top: 20px;
+    margin-left: 200px;
+    height: 32px;
+    width: 180px;
+    background-color: grey;
+    color: white;
+}
+
+.button:hover
+{
+    background-image: url('image/button_back2.jpg');
+}
+.whitediv
+{
+    height: 500px;
+    width: 800px;
+    background-color: transparent;
+    margin-left: 150px;
+    margin-top: -2s0px;
+        
+}
+.lab
+{
+    font-size: 20px;
+    margin-top: 20px;
+    color: black;
+}
+
+.pic20
+{
+    background-image: url('image/back_button.png');
+    margin-top: 30px;
+    margin-left: 47px;
+    height: 40px;
+    width: 40px;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    
+}
+
+.button20
+{
+    margin-top: -15px;
+    margin-left: -10px;
+    height: 65px;
+    width: 65px;
+    border-radius: 10px;
+    border-width: 3px;
+    background-color:transparent;
+    font-size: 25px;
+    color: transparent;
+    border-color: transparent;
+}

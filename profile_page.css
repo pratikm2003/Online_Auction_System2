@@ -1,0 +1,209 @@
+/* 
+    Document   : profile_page
+    Created on : 21 Feb, 2023, 11:25:47 PM
+    Author     : Sam
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body
+{
+    background-color: grey;
+}
+.whitediv
+{
+    background-color: white;
+    height: 700px;
+    width: 550px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border-style: solid;
+    border-color: transparent;
+    border-radius: 50px;
+}
+.whitediv1
+{
+    background-color: white;
+    height: 330px;
+    width: 550px;
+    margin-left: 0px;
+    margin-top: 30px;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 3px;
+    border-radius: 50px;
+}
+.whitediv2
+{
+    background-color: white;
+    height: 330px;
+    width: 550px;
+    margin-left: 0px;
+    margin-top: 30px;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 3px;
+   border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    overflow: hidden scroll;
+}
+.pic
+{
+    background-image: url('image/profile1.jpg');
+    height: 300px;
+    width: 510px;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 50px;
+}
+.font
+{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: serif;
+    font-size:30px;
+    font-weight:bolder;
+    color: #00004d ;
+    letter-spacing:2px;
+    text-shadow: 2px 2px white; 
+}
+.textbox
+{
+    height: 45px;
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 18px;
+    color: black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: transparent;
+}
+.textbox1
+{
+    height: 45px;
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 30px;
+    font-size: 18px;
+    color: black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: transparent;
+}
+.button
+{
+    margin-left: 200px;
+    margin-top: 60px;
+    height: 33px;
+    width: 100px;
+    border-radius: 20px;
+    color: white;
+    background-image: url('image/button_back.jpg');
+    font-size: 20px;
+}
+.font1
+{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.textbox2
+{
+    height: 45px;
+    width: 200px;
+    margin-left: 10px;
+    margin-top: -10px;
+    font-size: 18px;
+    color: black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    background-color: transparent;
+}
+.button1
+{
+    margin-left: 200px;
+    margin-top: 0px;
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    color: white;
+    background-image: url('image/button_back.jpg');
+    font-size: 18px;
+}
+.button2
+{
+    margin-left: 200px;
+    margin-top: 0px;
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    color: black;
+    background-image: url('image/button_back1.jpg');
+    font-size: 18px;
+}
+.button3
+{
+    margin-left: 200px;
+    margin-top: 0px;
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    color: black;
+    background-image: url('image/button_back3.jpg');
+    font-size: 20px;
+}
+.button4
+{
+    margin-left: 140px;
+    margin-top:  -10px;
+    height: 24px;
+    width: 70px;
+    border-radius: 20px;
+    color: white;
+    background-image: url('image/button_back1.jpg');
+    font-size: 15px;
+    color: black;
+}
+
+.pic20
+{
+    background-image: url('image/back_button.png');
+    margin-top: 30px;
+    margin-left: 47px;
+    height: 40px;
+    width: 40px;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    
+}
+
+.button20
+{
+    margin-top: -15px;
+    margin-left: -10px;
+    height: 65px;
+    width: 65px;
+    border-radius: 10px;
+    border-width: 3px;
+    background-color:transparent;
+    font-size: 25px;
+    color: transparent;
+    border-color: transparent;
+}
+.font2
+{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 200px;
+    font-family: serif;
+}

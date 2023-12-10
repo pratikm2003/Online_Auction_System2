@@ -1,0 +1,116 @@
+/* 
+    Document   : bidders_list1
+    Created on : 5 May, 2023, 9:46:13 AM
+    Author     : ADMIN
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body
+{
+   background-color: thistle;   
+}
+table
+{
+    width: 100%;
+    border-style: solid;
+    border: none;
+    opacity: 0.7;
+    font-weight: bold;
+    
+}
+
+ 
+.whitediv1
+{
+    background-image:url('image/anicent1.gif');
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    margin-left: 220px;
+    margin-top: 10px;
+  
+    overflow: scroll;
+}
+th
+{
+   background-color: #FFD433;
+   height: 60px;
+   font-size: 20px;
+   text-align: center;
+ 
+}
+td
+{
+  text-align: center;
+  height: 40px;
+  font-size: 15px;
+  color: white;
+  
+}
+
+tr{
+    
+   background-color: black;
+   color: white;
+    
+}
+tr:hover
+{
+    background-color: #ec971f;
+   
+   
+}
+
+.form
+{
+    height: 20px;
+    width: 60px;
+    border-radius: 10px;
+    margin-left: 900px;    
+}
+.btn
+{
+    height: 20px;
+    width: 45px;
+    margin-left: 970px;
+    margin-top: -40px;
+    font-size: 10px;
+    background-color: aqua;
+   
+}
+
+.textbox
+{
+    height: 30px;
+    width: 100px;
+    margin-left: 850px;
+}
+
+.button
+{
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+    background-color: lavender;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 7px;
+}
+
+.button1
+{
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+    background-color: turquoise;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 7px;
+}

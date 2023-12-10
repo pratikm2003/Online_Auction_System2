@@ -1,0 +1,94 @@
+/* 
+    Document   : shipping_pay
+    Created on : 24 Apr, 2023, 12:32:59 PM
+    Author     : ADMIN
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body
+{
+    
+}
+table
+{
+    width: 100%;
+    border-style: solid;
+    border: none;
+    opacity: 0.7;
+    font-weight: bold;
+    
+}
+
+ 
+.whitediv1
+{
+    background-image:url('image/table_back2.jpg');
+    background-size: cover;
+    height: 500px;
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 50px;
+  
+    overflow: scroll;
+}
+th
+{
+   background-color: #FFD433;
+   height: 60px;
+   font-size: 20px;
+   text-align: center;
+ 
+}
+td
+{
+  text-align: center;
+  height: 40px;
+  font-size: 15px;
+  color: white;
+  
+}
+
+tr{
+    
+   background-color: black;
+   color: white;
+    
+}
+tr:hover
+{
+    background-color: #ec971f;
+   
+   
+}
+.button
+{
+    width: 80px;
+    height: 20px;
+    font-size: 15px;
+    background-color: lavender;
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 10px;
+}
+
+.btn
+{
+    height: 40px;
+    width: 80px;
+    color: black;
+    background-color: wheat;
+}
+.btn:hover
+{
+    height: 40px;
+    width: 80px;
+    color: black;
+    background-color: white;
+}

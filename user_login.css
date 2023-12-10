@@ -1,0 +1,94 @@
+/* 
+    Document   : user_login
+    Created on : 31 Jan, 2023, 12:37:41 PM
+    Author     : Sam
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body
+{
+background-image:url('image/user_login_back1.jpg');
+background-size: cover;
+margin-left: 700px;
+margin-top: 220px;
+}
+.whitediv
+{
+    height: 400px;
+    width: 550px;
+    background-color: transparent;
+    margin-left: -650px;
+    margin-top: -100px;
+}
+.textbox
+{
+    height: 35px;
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 100px;
+    font-size: 14px;
+    font-family: cursive;
+}
+.button
+{
+     height: 30px;
+    width: 105px;
+    margin-top: 15px;
+    margin-left: 150px;
+    background-color: grey;
+    color: white;
+    font-family: serif;
+}
+.link
+{
+    margin-top: 10px;
+    margin-left: 300px;
+    width: 125px;
+    font-family: serif;
+}
+.pic
+{
+    background-image: url('image/profile1.png');
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    margin-left: 190px;
+    margin-top: 15px;
+}
+
+.font 
+{
+    color: black;  
+    font-family: serif;
+}
+
+.pic20
+{
+    background-image: url('image/back_button.png');
+    margin-top: -100px;
+    margin-left: -680px;
+    height: 40px;
+    width: 40px;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    
+}
+
+.button20
+{
+    margin-top: -15px;
+    margin-left: -10px;
+    height: 65px;
+    width: 65px;
+    border-radius: 10px;
+    border-width: 3px;
+    background-color:transparent;
+    font-size: 25px;
+    color: transparent;
+    border-color: transparent;
+}

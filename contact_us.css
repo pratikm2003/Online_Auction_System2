@@ -1,0 +1,92 @@
+/* 
+    Document   : contact_us
+    Created on : 4 May, 2023, 12:17:11 PM
+    Author     : ADMIN
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body
+{
+    background-image:url('image/back.avif');
+    background-size: cover;
+}
+.whitediv
+{
+    background-color:rgba(255,255,255,0.3);
+    height:600px;
+    width: 700px;
+    margin-top: 50px;
+    margin-left:28%; 
+    
+}
+.label
+{
+    font-size: 19px;
+    color: black;
+    font-family: cursive;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.textbox
+{
+    height: 40px;
+    width: 600px;
+    margin-left:25px;
+    font-size: 18px;
+    padding-left: 20px;
+}
+.textbox1
+{
+    height: 200px;
+    width: 600px;
+    margin-left:25px;
+    padding-left:20px;
+    padding-right: 20px;
+    font-size: 18px;
+}
+.h
+{ 
+    font-size: 30px;
+    font-family: serif;
+    color:black;
+    text-shadow: 2px 2px red;
+}
+
+.button
+{
+    margin-left: 300px;
+    height: 30px;
+    width: 100px;
+    font-family: serif;
+    font-size: 18px;
+}
+.pic20
+{
+    background-image: url('image/back_button.png');
+    margin-top: 30px;
+    margin-left: 47px;
+    height: 40px;
+    width: 40px;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    
+}
+
+.button20
+{
+    margin-top: -15px;
+    margin-left: -10px;
+    height: 65px;
+    width: 65px;
+    border-radius: 10px;
+    border-width: 3px;
+    background-color:transparent;
+    font-size: 25px;
+    color: transparent;
+    border-color: transparent;
+}

@@ -1,0 +1,94 @@
+/* 
+    Document   : admin_login
+    Created on : 28 Jan, 2023, 11:56:20 AM
+    Author     : Sam
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body
+{   
+background-image:url('image/userlogin.jpg');
+background-size: 1600px;
+}
+.textbox
+{
+    height: 40px;
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 100px;
+    font-size: 14px;
+}
+.button
+{
+     height: 30px;
+    width: 105px;
+    margin-top: 15px;
+    margin-left: 170px;
+    background-color: white;
+    color: black;
+}
+.button:hover
+{
+    background-color: #afd9ee;
+    border-radius: 5px;
+}
+.link
+{
+    margin-top: 15px;
+    margin-left: 300px;
+    width: 125px;
+}
+.pic
+{
+    background-image: url('image/profile1.png');
+    height: 90px;
+    width: 90px;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    margin-left: 180px;
+    margin-top: 15px;
+}
+.whitediv
+{
+    height: 400px;
+    width: 600px;
+    background-color: transparent;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+.font
+{
+    color: white;
+    font-size: 14px;
+}
+
+.pic20
+{
+    background-image: url('image/back_button.png');
+    margin-top: 30px;
+    margin-left: 47px;
+    height: 40px;
+    width: 40px;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    
+}
+
+.button20
+{
+    margin-top: -15px;
+    margin-left: -10px;
+    height: 65px;
+    width: 65px;
+    border-radius: 10px;
+    border-width: 3px;
+    background-color:transparent;
+    font-size: 25px;
+    color: transparent;
+    border-color: transparent;
+}

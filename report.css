@@ -1,0 +1,81 @@
+/* 
+    Document   : report
+    Created on : 11 May, 2023, 12:20:45 PM
+    Author     : ADMIN
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body
+{
+  background-image:url('image/back.jpeg');
+  background-size: cover;
+}
+
+.whitediv
+{
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 350px;
+    width: 200px;
+   
+}
+
+.whitediv1
+{
+    margin-top: 50px;
+    margin-left: 30px;
+    height: 400px;
+    width: 400px;
+    
+}
+
+.button
+{
+    height: 40px;
+    width: 160px;
+    background-color: thistle;
+    border-radius: 10px;
+}
+
+.button1
+{
+    height: 40px;
+    width: 160px;
+    margin-left: -80px;
+    background-color: thistle;
+    border-radius: 10px;
+}
+
+.button2
+{
+    height: 40px;
+    width: 160px;
+    margin-left: 0px;
+    margin-bottom: 50px;
+    background-color: thistle;
+    border-radius: 10px;
+}
+
+.button3
+{
+    height: 40px;
+    width: 160px;
+    margin-left: 0px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    background-color: thistle;
+    border-radius: 10px;
+}
+
+.textbox
+{
+    height: 30px;
+    width: 160px;
+     border-radius: 5px;
+}
+
